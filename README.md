@@ -8,4 +8,8 @@
 ## Anlegen einer DB (best practice Dateigrößen)
 ## DB Diagramm und DB Design
 
- 
+ # Tag 2
+ ## DB Objekte - Prozeduren Views
+ ## Seiten und Blöcke
+ ## Agent - Jobs Proxy Schritte Zeitpläne
+ ## Emailsystem
