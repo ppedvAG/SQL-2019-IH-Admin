@@ -20,3 +20,6 @@
  ## Login vs User
  ## DB Rollen
  ## Schema
+ ## Audit
+ ##Serverrolle
+ ## Verschlüsselung / DynMasking / RowLevel Security
