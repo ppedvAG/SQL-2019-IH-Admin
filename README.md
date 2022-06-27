@@ -13,3 +13,10 @@
  ## Seiten und Blöcke
  ## Agent - Jobs Proxy Schritte Zeitpläne
  ## Emailsystem
+
+
+ # Tag 3
+ ## Security
+ ## Login vs User
+ ## DB Rollen
+ ## Schema
