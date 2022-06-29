@@ -23,3 +23,11 @@
  ## Audit
  ##Serverrolle
  ## Verschlüsselung / DynMasking / RowLevel Security
+
+ # Tag 4
+ ## RecoveryModel
+ ## Tlog 
+ ## Sicherungsvarianten V D T
+ ## Restorefälle
+ ## Snapshot
+ ## Tipps für gute Backuppläne und Restoring
