@@ -24,11 +24,13 @@ bei = , ID Spalten
 
 -------------------------------------
 abdeckender  (bester IX passend zur Abfrage) reiner SEEK ohne Lookup oder scans
-zusammengsetzter IX (hat mehr Spalten .. max 16 )
+
+zusammengsetzter IX (hat mehr Spalten .. max 16 ).. meist reichen 4 Stück um Eindeutigkeit zu errreichen
+
 IX mit eingsch Spalten x  ca 1000 Spalten mieinschließen
 ind Sicht x
 part Index x
-gefilterterIX
+gefilterterIX  ! nicht alle DS---muss weniger Ebenen ergeben
 eindeutigen IX x
 --------------------------------------
 Columnstore IX

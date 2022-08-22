@@ -39,5 +39,18 @@
 ## Extended Events
 ## Logfiles
 ## Perfmon Profiler QueryStore aktivieren
+## Indizes Teil 1
 
 # Tag 6
+Inidzes Teil2
+Columnstore Indizes
+Auflösung Monitoring
+
+# Tag 7
+Dateigruppen
+Partitionierung
+Kompression
+Settings on DB (Scoped Database)
+
+
+
