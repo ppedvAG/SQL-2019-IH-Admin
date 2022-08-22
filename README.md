@@ -31,3 +31,13 @@
  ## Restorefälle
  ## Snapshot
  ## Tipps für gute Backuppläne und Restoring
+
+# Tag 5
+## Wiederholung Backup inkl Security Fallbeispiele
+## Contained Database
+## Start live Monitoring 
+## Extended Events
+## Logfiles
+## Perfmon Profiler QueryStore aktivieren
+
+# Tag 6
