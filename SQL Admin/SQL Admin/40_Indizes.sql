@@ -30,7 +30,7 @@ zusammengsetzter IX (hat mehr Spalten .. max 16 ).. meist reichen 4 Stück um Ein
 IX mit eingsch Spalten x  ca 1000 Spalten mieinschließen
 ind Sicht x
 part Index x
-gefilterterIX  ! nicht alle DS---muss weniger Ebenen ergeben
+gefilterterIX  ! nicht alle DS---muss weniger Ebenen ergeben, sonst sinnlos
 eindeutigen IX x
 --------------------------------------
 Columnstore IX

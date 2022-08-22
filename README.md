@@ -44,9 +44,11 @@
 # Tag 6
 Inidzes Teil2
 Columnstore Indizes
-Auflösung Monitoring
+IX Wartung
+
 
 # Tag 7
+Auflösung Monitoring
 Dateigruppen
 Partitionierung
 Kompression

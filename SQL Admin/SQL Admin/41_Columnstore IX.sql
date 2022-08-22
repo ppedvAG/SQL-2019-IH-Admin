@@ -38,7 +38,7 @@ group by CompanyName
 
 
 select City, sum(freight) from kundeumsatz2
-where customerid = 'ALFKI'
+where customerid = 'ALFKI' and id > 800000
 group by City
 
 --für jede SP ein IX angelegt worden ..nein , weil sonst sollte es ansatzweise gleich schnell, aber der ColStore war schneller
@@ -48,4 +48,9 @@ group by City
 --Kundeumsatz = ca 3,5 MB?  --> 3,1 MB ja das stimmt oder stimmt nicht:  stimmt, dann aber kann das nur durch Kompression passiert
 --trotz weiterer Kompresssion deutlich geringere Zeiten
 --3,1 MB sind nun im RAM statt 480MB
+
+
+
+--Man kann den Zugriff auf den DeltaStor (= Heap) optimieren) durch NoN CL IX.
+--Idee gefiltert: NIX_Sp_incl Clumns_filter auf > 1.1.2022
 
